@@ -1,0 +1,17 @@
+.nav-menu{
+  margin:10px 15px;
+  text-decoration: none;
+  color: black;
+
+  
+}
+.container{
+  display: flex;
+  flex-direction: row
+}
+.nested-container{
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+ padding: 10px
+}
